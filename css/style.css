@@ -91,16 +91,9 @@ p {
 	background-color: #2589bd;
 }
 
-.benefit-lead {
-	margin-bottom: 32px;
-	color: #ffffff;
-}
-
-.benefit-brand {
-	margin-bottom: 32px;
-	color: #ffffff;
-}
-
+/* moved classes together */
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
 	margin-bottom: 32px;
 	color: #ffffff;
@@ -140,24 +133,9 @@ p {
 }
 
 /* changed to id not class */
-#search-engine-optimization {
-	margin-bottom: 20px;
-	padding: 50px;
-	height: 300px;
-	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	background-color: #0072bb;
-	color: #ffffff;
-}
-
-.online-reputation-management {
-	margin-bottom: 20px;
-	padding: 50px;
-	height: 300px;
-	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	background-color: #0072bb;
-	color: #ffffff;
-}
-
+/* added classes together */
+#search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing {
 	margin-bottom: 20px;
 	padding: 50px;
@@ -168,29 +146,17 @@ p {
 }
 
 /* changed to id not class */
-#search-engine-optimization img {
-	max-height: 200px;
-}
-
-.online-reputation-management img {
-	max-height: 200px;
-}
-
+/* made super class */
+#search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing img {
 	max-height: 200px;
 }
 
 /* changed to id not class */
-#search-engine-optimization h2 {
-	margin-bottom: 20px;
-	font-size: 36px;
-}
-
-.online-reputation-management h2 {
-	margin-bottom: 20px;
-	font-size: 36px;
-}
-
+/* added classes together */
+#search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing h2 {
 	margin-bottom: 20px;
 	font-size: 36px;
