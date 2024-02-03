@@ -28,7 +28,7 @@ This project involved refactoring the HTML and CSS code for the Horiseon website
 - Alt text used to provide image descriptions for search engines
 
 ## Deployment
-The updated codebase is deployed on GitHub Pages at: [(https://jakepears.github.io/companySiteFixes/)jakepears.github.io/companySiteFixes/]
+The updated codebase is deployed on GitHub Pages at: [(https://jakepears.github.io/companySiteFixes/)]
 
 ### Credits
 README written by Jake Pearson.
